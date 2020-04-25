@@ -6,4 +6,5 @@ myvenv
 db.sqlite3
 /static
 /staticfiles
+.env
 .DS_Store
